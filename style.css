@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'kajiro';
-    src: url('/fonts/Kajiro\ Bold.otf') format('opentype');
+    src: url('./Kajiro\ Bold.otf') format('opentype');
 }
 
 * {
